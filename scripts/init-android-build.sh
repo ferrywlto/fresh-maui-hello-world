@@ -1,0 +1,1 @@
+dotnet build -t:InstallAndroidDependencies -f:net8.0-android -p:AndroidSdkDirectory=/Users/ferrywlto/Library/Android/sdk -p:JavaSdkDirectory=/Users/ferrywlto/Library/Java/ms-openjdk-maui -p:AcceptAndroidSDKLicenses=True
